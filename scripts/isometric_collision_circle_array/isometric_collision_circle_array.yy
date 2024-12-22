@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"isometric_collision_circle_array",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"isometric_collision_circle_array",
+  "parent":{
+    "name":"Collision",
+    "path":"folders/Scripts/Collision.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

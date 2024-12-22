@@ -1,0 +1,1 @@
+if array_length(targets) == 0 instance_destroy(id);
